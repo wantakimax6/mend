@@ -1,5 +1,9 @@
 # mend
 
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/wantakimax6/mend/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/wantakimax6/mend/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
 mend is a command-line tool that applies edits written by AI models to a tree of
 text files. Models write edits in four formats, and mend reads all of them to
 one specification, `SPEC.md`: unified diffs (often with wrong line numbers),
@@ -53,3 +57,7 @@ Context lines are always written as the file's own lines.
 A check is one run: its arguments, its standard input (or none) and the files
 it starts with. It passes when the exit code, everything written to standard
 output and every file afterwards are exactly what `SPEC.md` says.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/hidden-spec-cli-01-run-20261122) · AI agents build software for cash rewards</sub>
